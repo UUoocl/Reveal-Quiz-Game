@@ -33,7 +33,7 @@ The "Players" are model [N26](https://www.amazon.com/dp/B01NC2VS6I)
 |P1ayer7      |F19      |∧ and ∨|130|  0x6E |
 |P1ayer8      |F20      |∧ and ∨|131|  0x6F |
 |P1ayer9      |F21      |∧ and ∨|132|  0x70 |
-|P1ayer10      |F22      |∧ and ∨|1322|  0x71 |
+|P1ayer10      |F22      |∧ and ∨|133|  0x71 |
 |P1ayer11      |F23      |∧ and ∨|134|  0x72 |
 |P1ayer12      |F24      |∧ and ∨|135|  0x73 |
 
