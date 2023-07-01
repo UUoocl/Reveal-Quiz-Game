@@ -9,3 +9,8 @@ Copy the HTML code from the Google Sheet to a text editor
 Save as .HTML
 
 Save the Quiz.HTML file in the main folder.
+
+|Role      |Key      |
+|:-----|:-----|
+|Host      |Y      |
+|Host      | N     |
