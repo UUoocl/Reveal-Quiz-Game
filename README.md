@@ -18,23 +18,23 @@ The "Host" is controller is a Norwii [N28](https://www.amazon.com/dp/B081SY17DC)
 
 The "Players" are model [N26](https://www.amazon.com/dp/B01NC2VS6I)
 
-|Controller      |Key      |Button|
-|:-----|:-----|:-----|
-|Host      |Y      |>|
-|Host      | N     |<|
-|Host      |Tab      |口|
-|Host      | Shift + Tab   |口|
-|P1ayer1      |F13      | ∧ and ∨|
-|P1ayer2      |F14      |∧ and ∨|
-|P1ayer3      |F15      |∧ and ∨|
-|P1ayer4      |F16      |∧ and ∨|
-|P1ayer5      |F17      |∧ and ∨|
-|P1ayer6      |F18      |∧ and ∨|
-|P1ayer7      |F19      |∧ and ∨|
-|P1ayer8      |F20      |∧ and ∨|
-|P1ayer9      |F21      |∧ and ∨|
-|P1ayer10      |F22      |∧ and ∨|
-|P1ayer11      |F23      |∧ and ∨|
-|P1ayer12      |F24      |∧ and ∨|
+|Controller      |Key      |Button| JS Code| Norwii Hex Code
+|:-----|:-----|:-----|:-----|:-----|
+|Host      |Y      |>|89|   0x1C|
+|Host      | N     |<|78|   0x11|
+|Host      |Tab      |口| 9|   0x2B|
+|Host      | Shift + Tab   |口| 9| 0x2B  |
+|P1ayer1      |F13      | ∧ and ∨|124| 0x68  |
+|P1ayer2      |F14      |∧ and ∨|125|  0x69 |
+|P1ayer3      |F15      |∧ and ∨|126|  0x6A |
+|P1ayer4      |F16      |∧ and ∨|127|  0x6B |
+|P1ayer5      |F17      |∧ and ∨|128|  0x6C |
+|P1ayer6      |F18      |∧ and ∨|129|  0x6D |
+|P1ayer7      |F19      |∧ and ∨|130|  0x6E |
+|P1ayer8      |F20      |∧ and ∨|131|  0x6F |
+|P1ayer9      |F21      |∧ and ∨|132|  0x70 |
+|P1ayer10      |F22      |∧ and ∨|1322|  0x71 |
+|P1ayer11      |F23      |∧ and ∨|134|  0x72 |
+|P1ayer12      |F24      |∧ and ∨|135|  0x73 |
 
 a [Sabrent 13 port USB hub](https://www.amazon.com/dp/product/B00HL7Z46K/) can be used to connect the controllers to a PC
