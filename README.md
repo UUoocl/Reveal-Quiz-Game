@@ -20,8 +20,8 @@ The "Players" are model [N26](https://www.amazon.com/dp/B01NC2VS6I)
 
 |Controller      |Key      |Button| JS Code| Norwii Hex Code
 |:-----|:-----|:-----|:-----|:-----|
-|Host      |Y      |>|89|   0x1C|
-|Host      | N     |<|78|   0x11|
+|Host      |1      |>|49|   0x1E|
+|Host      |0     |<|48|   0x27|
 |Host      |Tab      |口| 9|   0x2B|
 |Host      | Shift + Tab   |口| 9| 0x2B  |
 |P1ayer1      |F13      | ∧ and ∨|124| 0x68  |
