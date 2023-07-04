@@ -1,5 +1,5 @@
 # Reveal-Quiz-Game
-A quiz game made in Reveal.js
+A quiz game made in [Reveal.js](https://revealjs.com/)
 
 1. Create quiz boards using a Google Sheet Template
 
