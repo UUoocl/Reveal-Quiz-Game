@@ -1,18 +1,17 @@
 # Reveal-Quiz-Game
 A quiz game made in Reveal.js
 
-Create quiz boards using a Google Sheet Template
+1. Create quiz boards using a Google Sheet Template
 
 https://docs.google.com/spreadsheets/d/13cifomsc0dZoV-8ew60kYDkaowRadZbl5Fu7580lS0c/copy
 
-Copy the HTML code from the Google Sheet to a text editor
-Save as .HTML
+2. Copy the HTML code from the Google Sheet to a text editor and Save as a .HTML file
 
-Save the Quiz.HTML file in the main folder.
+3. Save the Quiz.HTML file in the main project folder.
 
 ## Controllers
 
-Norwii brand wireless presentation remotes are used to play the game.  These inexpensive remotes come with a customization software where each button can be set to a certain key.  
+Norwii brand wireless presentation remotes are used to play the game.  These remotes come with a customization software where each button can be set to a certain key.  
 
 The "Host" is controller is a Norwii [N28](https://www.amazon.com/dp/B081SY17DC) or [N29](https://www.amazon.com/dp/B07HH4PFNQ).
 
@@ -22,6 +21,7 @@ The "Players" are model [N26](https://www.amazon.com/dp/B01NC2VS6I)
 |:-----|:-----|:-----|:-----|:-----|
 |Host      |1      |>|49|   0x1E|
 |Host      |0     |<|48|   0x27|
+|Host      |0     |<|50|   0x1F|
 |Host      |Tab      |口| 9|   0x2B|
 |Host      | Shift + Tab   |口| 9| 0x2B  |
 |P1ayer1      |F13      | ∧ and ∨|124| 0x68  |
@@ -38,3 +38,6 @@ The "Players" are model [N26](https://www.amazon.com/dp/B01NC2VS6I)
 |P1ayer12      |F24      |∧ and ∨|135|  0x73 |
 
 a [Sabrent 13 port USB hub](https://www.amazon.com/dp/product/B00HL7Z46K/) can be used to connect the controllers to a PC
+
+# Playing the Game
+Use the "s" key to view the host notes. The host notes are provided to give the host instrucitons for each screen.  
