@@ -21,21 +21,22 @@ The "Players" are model [N26](https://www.amazon.com/dp/B01NC2VS6I)
 |:-----|:-----|:-----|:-----|:-----|
 |Host      |1      |>|49|   0x1E|
 |Host      |0     |<|48|   0x27|
-|Host      |0     |<|50|   0x1F|
 |Host      |Tab      |口| 9|   0x2B|
 |Host      | Shift + Tab   |口| 9| 0x2B  |
-|P1ayer1      |F13      | ∧ and ∨|124| 0x68  |
-|P1ayer2      |F14      |∧ and ∨|125|  0x69 |
-|P1ayer3      |F15      |∧ and ∨|126|  0x6A |
-|P1ayer4      |F16      |∧ and ∨|127|  0x6B |
-|P1ayer5      |F17      |∧ and ∨|128|  0x6C |
-|P1ayer6      |F18      |∧ and ∨|129|  0x6D |
-|P1ayer7      |F19      |∧ and ∨|130|  0x6E |
-|P1ayer8      |F20      |∧ and ∨|131|  0x6F |
-|P1ayer9      |F21      |∧ and ∨|132|  0x70 |
-|P1ayer10      |F22      |∧ and ∨|133|  0x71 |
-|P1ayer11      |F23      |∧ and ∨|134|  0x72 |
-|P1ayer12      |F24      |∧ and ∨|135|  0x73 |
+|Host      |3     |+|51|   0x20|
+|Host      |Left Arrow     |-|37|   0x50|
+|Player1      |F13      | ∧ and ∨|124| 0x68  |
+|Player2      |F14      |∧ and ∨|125|  0x69 |
+|Player3      |F15      |∧ and ∨|126|  0x6A |
+|Player4      |F16      |∧ and ∨|127|  0x6B |
+|Player5      |F17      |∧ and ∨|128|  0x6C |
+|Player6      |F18      |∧ and ∨|129|  0x6D |
+|Player7      |F19      |∧ and ∨|130|  0x6E |
+|Player8      |F20      |∧ and ∨|131|  0x6F |
+|Player9      |F21      |∧ and ∨|132|  0x70 |
+|Player10      |F22      |∧ and ∨|133|  0x71 |
+|Player11      |F23      |∧ and ∨|134|  0x72 |
+|Player12      |F24      |∧ and ∨|135|  0x73 |
 
 a [Sabrent 13 port USB hub](https://www.amazon.com/dp/product/B00HL7Z46K/) can be used to connect the controllers to a PC
 
