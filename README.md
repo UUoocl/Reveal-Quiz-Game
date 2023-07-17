@@ -3,7 +3,7 @@ A quiz game made in [Reveal.js](https://revealjs.com/)
 
 1. Create quiz boards using a Google Sheet Template
 
-https://docs.google.com/spreadsheets/d/13cifomsc0dZoV-8ew60kYDkaowRadZbl5Fu7580lS0c/copy
+https://docs.google.com/spreadsheets/d/1rBwQ4n86ewNdmrxexafftWoIFiuI2x9Ddgy7FHIiFfI/copy
 
 2. Copy the HTML code from the Google Sheet to a text editor and Save as a .HTML file
 
