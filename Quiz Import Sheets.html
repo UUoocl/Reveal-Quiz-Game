@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html class="sl-root decks export offline loaded">
+
+<head>
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>QuizShow</title>
+    <link rel="stylesheet" type="text/css" href="lib/offline-v2.css">
+</head>
+
+<body class="reveal-viewport theme-font-montserrat theme-color-cobalt-orange">
+    <div class="reveal">
+        <div class="slides" id="slides">
+            <section id="Choose-file">
+                <h2 class="r-fit-text">Press "s" to start<br>Press "f" for full screen.</h2> 
+            </section>
+        </div>
+    </div>
+    <script>var SLConfig = { "deck": { "background_transition": "none", "transition": "none", "theme_id": null, "theme_font": "montserrat", "theme_color": "cobalt-orange", "auto_slide_interval": 0, "comments_enabled": false, "forking_enabled": false, "rolling_links": false, "center": false, "shuffle": false, "should_loop": false, "share_notes": false, "slide_number": false, "slide_count": 42, "rtl": false, "version": 2, "collaborative": null, "deck_user_editor_limit": 1, "data_updated_at": 1682359534479, "font_typekit": null, "font_google": null, "time_limit": null, "navigation_mode": "default", "upsizing_enabled": true } };// Use local fontsSLConfig.fonts_url = 'lib/fonts/';</script>
+    <script src="lib/reveal.js"></script>
+    <script src="lib/reveal-plugins.js"></script>
+    <script src="lib/offline.js"></script>
+    <script src="lib/quizcontrol.js"></script>
+    
+    <!-- Initialize the presentation http://127.0.0.1:3000/Quiz%20Import%20JSON%20file.html?id=1GU1G8N24_QTB-peq4V6UWbLsQu5Zhn2TrFOnbe2CmcE&sheet=games&range=A1:A3-->
+    <script>Reveal.initialize({ width: 960, height: 700, margin: 0.05, hash: true, controls: false, progress: false, mouseWheel: false, showNotes: false, slideNumber: false, fragmentInURL: true, autoSlide: 0, autoSlideStoppable: true, autoAnimateMatcher: SL.deck.AutoAnimate.matcher, center: false, shuffle: false, loop: true, rtl: false, navigationMode: "default", transition: "none", backgroundTransition: "none", highlight: { escapeHTML: false, }, plugins: [RevealZoom, RevealNotes, RevealMarkdown, RevealHighlight, quizControl] });</script>
+</body>
+
+</html>
